@@ -18,6 +18,9 @@ html, body {
   width: 100%;
   height: 700px;
 }
+.imgr{
+  margin-top: 10%;
+}
 .carousel-caption {
   position: absolute;
   top: 40%;
@@ -207,6 +210,9 @@ hr.light-100 {
   .social a {
     font-size: 2em;
     padding: .7rem;
+  }
+  .imgr{
+    margin-top: 0%;
   }
 }
 
